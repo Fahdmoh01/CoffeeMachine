@@ -5,7 +5,7 @@
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 * [X] User can **view the remaining coffee ingredients**
 * [X] User can **successfully buy coffee** from the coffee machine
